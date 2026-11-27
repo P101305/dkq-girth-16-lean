@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The girth of the Lazebnik-Ustimenko graph D(12,q) is 16 for every prime power q >= 4 (Lean 4 formalization)"
+authors:
+  - family-names: Lipscomb
+    given-names: Parker
+type: software
+license: MIT
+date-released: 2026-11-27
+repository-code: "https://github.com/P101305/dkq-girth-16-lean"
